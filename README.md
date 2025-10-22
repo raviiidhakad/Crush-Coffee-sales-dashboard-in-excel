@@ -11,7 +11,7 @@ To analyze and visualize sales data to identify:
 - Total sales and revenue trends
 - Best-performing coffee products
 - Regional performance comparison
-- Monthly and yearly sales growth
+- Monthly and hourly sales growth
 - Top customers and order patterns
 
 ---
@@ -34,10 +34,10 @@ To analyze and visualize sales data to identify:
 ---
 
 ## 🔍 Key Insights
-- The **Espresso** and **Latte** categories generated the highest revenue.  
-- **South Region** showed a consistent upward sales trend.  
-- Peak sales were recorded during **Q4** of the year.  
-- **Online sales channels** performed better than offline.  
+- The **Barista Espresso** and **Brewed Chai** categories generated the highest revenue.  
+- **Hell's kitchen** showed a consistent upward sales trend.  
+- Peak sales were recorded during **8 AM to 9 AM** of the day.  
+- **Morning sales channels** performed better than Evening.  
 
 ---
 
